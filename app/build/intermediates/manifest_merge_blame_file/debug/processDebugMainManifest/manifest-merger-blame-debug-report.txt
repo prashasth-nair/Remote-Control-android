@@ -1,0 +1,157 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.remotecommand"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+11-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:4:5-76
+11-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:4:22-73
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:5:5-76
+12-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:5:22-73
+13    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+13-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:6:5-79
+13-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:7:5-67
+14-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:7:22-64
+15    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+15-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:8:5-86
+15-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:8:22-83
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:9:5-78
+16-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:10:5-80
+17-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:10:22-78
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21
+22    <permission
+22-->[androidx.core:core:1.13.0] C:\Users\prash\.gradle\caches\transforms-4\7355ed258ff004f1f7a52a25b39730a1\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+23        android:name="com.example.remotecommand.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+23-->[androidx.core:core:1.13.0] C:\Users\prash\.gradle\caches\transforms-4\7355ed258ff004f1f7a52a25b39730a1\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+24        android:protectionLevel="signature" />
+24-->[androidx.core:core:1.13.0] C:\Users\prash\.gradle\caches\transforms-4\7355ed258ff004f1f7a52a25b39730a1\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+25
+26    <uses-permission android:name="com.example.remotecommand.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+26-->[androidx.core:core:1.13.0] C:\Users\prash\.gradle\caches\transforms-4\7355ed258ff004f1f7a52a25b39730a1\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+26-->[androidx.core:core:1.13.0] C:\Users\prash\.gradle\caches\transforms-4\7355ed258ff004f1f7a52a25b39730a1\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+27
+28    <application
+28-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:13:5-34:19
+29        android:allowBackup="true"
+29-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:14:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.13.0] C:\Users\prash\.gradle\caches\transforms-4\7355ed258ff004f1f7a52a25b39730a1\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+31        android:dataExtractionRules="@xml/data_extraction_rules"
+31-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:15:9-65
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:fullBackupContent="@xml/backup_rules"
+34-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:16:9-54
+35        android:icon="@mipmap/ic_launcher"
+35-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:17:9-43
+36        android:label="@string/app_name"
+36-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:18:9-41
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:19:9-54
+38        android:supportsRtl="true"
+38-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:20:9-35
+39        android:testOnly="true"
+40        android:theme="@style/Theme.RemoteCommand" >
+40-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:21:9-51
+41        <activity
+41-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:24:9-33:20
+42            android:name="com.example.remotecommand.MainActivity"
+42-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:25:13-41
+43            android:exported="true"
+43-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:27:13-36
+44            android:screenOrientation="portrait" >
+44-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:26:13-49
+45            <intent-filter>
+45-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:28:13-32:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:29:17-69
+46-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:29:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:31:17-77
+48-->E:\Cloud\MEGAsync Uploads\Android app development\RemoteCommand\app\src\main\AndroidManifest.xml:31:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+54            android:authorities="com.example.remotecommand.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.3.0] C:\Users\prash\.gradle\caches\transforms-4\3b85377256684b33a58a373b37674409\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\prash\.gradle\caches\transforms-4\4f9e76e56281c76984422e19398ce38a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\prash\.gradle\caches\transforms-4\4f9e76e56281c76984422e19398ce38a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\prash\.gradle\caches\transforms-4\4f9e76e56281c76984422e19398ce38a\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+63                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+63-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+64                android:value="androidx.startup" />
+64-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+65        </provider>
+66
+67        <receiver
+67-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+68            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+69            android:directBootAware="false"
+69-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+70            android:enabled="true"
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+71            android:exported="true"
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+72            android:permission="android.permission.DUMP" >
+72-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+73            <intent-filter>
+73-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+74                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+75            </intent-filter>
+76            <intent-filter>
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+77                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+78            </intent-filter>
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+80                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+83                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\prash\.gradle\caches\transforms-4\e1c4cffcb44a651b13fe2cdd3f11f745\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+84            </intent-filter>
+85        </receiver>
+86    </application>
+87
+88</manifest>

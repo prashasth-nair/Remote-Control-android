@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_minus.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/minus.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/menu_menu.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_trackpad_layout.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/trackpad_layout.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_laptop.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/laptop.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_thumb2.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/thumb2.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_round_button_activated.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/round_button_activated.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_keyboard.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/keyboard.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_restart.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/restart.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_power.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/power.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_round_button.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/round_button.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_previous.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/previous.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/layout_main_toolbar.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/layout/main_toolbar.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_mute.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/mute.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_play_pause.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/play_pause.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_brightness.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/brightness.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_square_button.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/square_button.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_fast_forward.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/fast_forward.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_next.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/next.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/drawable_controls_broder.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/drawable/controls_broder.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.remotecommand.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_rewind_button.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/rewind_button.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_lock.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/lock.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_plus.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/plus.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_laptop_online.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/laptop_online.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_sleep.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/sleep.png"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.remotecommand.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remotecommand.app-debug-32:/raw_quaver.png.flat",
+        "source": "com.example.remotecommand.app-main-34:/raw/quaver.png"
+    }
+]

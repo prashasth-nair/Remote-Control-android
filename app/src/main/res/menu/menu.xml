@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_scrollFlags="scroll|enterAlways">
+
+    <item
+        android:id="@+id/laptop"
+        android:icon="@raw/laptop"
+        android:title="@string/laptop"
+
+        app:showAsAction="ifRoom" />
+
+<!--    android:onClick="pc_control"-->
+
+</menu>
